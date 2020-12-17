@@ -1,5 +1,5 @@
 # chewbacca
-solution to Chewbacca kattis question
+solution to Chewbacca kattis question in main.cpp
 
 Kattis Link:
 https://open.kattis.com/problems/chewbacca
